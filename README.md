@@ -100,18 +100,4 @@ python3 src/main.py --conf ./sample/Conf --report ./output/report.json --run-sim
 - [x] Multithreading & IPC-based architecture  
 - [x] Logs & statistics maintained at each node  
 
----
 
-## 📌 Extensions (Future Scope)
-- Add ML-based **traffic prediction** for proactive congestion control.
-- Web dashboard (Flask/Django) for topology visualization and report viewing.
-- Support for **real IP packet crafting** using `scapy`.
-- Extend protocol simulation with detailed OSPF/BGP state machines.
-
----
-
-## 👩‍💻 Author
-- Your Name  
-- Cisco VIP 2025 – Networking Stream Intern
-
----
